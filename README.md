@@ -11,3 +11,5 @@ This project uses machine learning to predict gold prices based on historical fi
 # 🔧 Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn
+
+# 📘Dataset : Kaggle (https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset)
